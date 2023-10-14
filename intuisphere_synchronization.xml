@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<synchro_status>
+  <id_modification_project val="1k2bww8g2ymu4uc"/>
+  <synchro_elements>
+    <OBJECT>
+      <name val="AKAMASOA.png"/>
+      <id val="3am8l431xv4hk3"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="BOLLINGER.png"/>
+      <id val="3yrdhs31xurrpj"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="BOUGIE.png"/>
+      <id val="2finu0ujecotm6"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="DOJI.png"/>
+      <id val="2fittkujedihpe"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ETOILE_20DU_20SOIR.png"/>
+      <id val="33cxbcujedrfr0"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="GRAPHIQUE.png"/>
+      <id val="45o6v4azs85rs"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="GRAPHIQUE0.png"/>
+      <id val="45o6v4azs85rs"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="GRAPHIQUE1.png"/>
+      <id val="45o6v4azs85rs"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="GRAPHIQUE_20SAMPONA.png"/>
+      <id val="462lawujef8qhw"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="LIGNE_20PERCENTE.png"/>
+      <id val="33crbsujed4irw"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="MARTEAU.png"/>
+      <id val="3tearsujedaubx"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-1.png"/>
+      <id val="4407c0320ln7k9"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-10.png"/>
+      <id val="2gsieguju8f3e7"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-100.png"/>
+      <id val="1uzr9k321qho9w"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-11.png"/>
+      <id val="2aixz431zi94dh"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-110.png"/>
+      <id val="29ik6o31zl1uzr"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-12.png"/>
+      <id val="3wi2moazyajfi"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-13.png"/>
+      <id val="2eg6ls13lfki1"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-14.png"/>
+      <id val="2dyqjc31zisds5"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-15.png"/>
+      <id val="3yi1w831zitcn7"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-16.png"/>
+      <id val="3yi4w031ziudkt"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-17.png"/>
+      <id val="3yi4agujv8rf2f"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-18.png"/>
+      <id val="3xyq88ujv91as2"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-19.png"/>
+      <id val="3xyj1kujv9a2rm"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-2.png"/>
+      <id val="45oencujeecmyb"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-20.png"/>
+      <id val="3xyn8gazyanhw"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-21.png"/>
+      <id val="2bzfh4ujv9vo4j"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-27.png"/>
+      <id val="28gca831zkkmks"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-270.png"/>
+      <id val="1uzn2ob06adwl"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-28.png"/>
+      <id val="3glye0321qzo3n"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-29.png"/>
+      <id val="1uzo9s321rkp1f"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-290.png"/>
+      <id val="1uzo9s321rkp1f"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-3.png"/>
+      <id val="462h40ujeew7qh"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-30.png"/>
+      <id val="29iglc31zkljh5"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-300.png"/>
+      <id val="3gm4z4321rzcc0"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-31.png"/>
+      <id val="3uopjk3243bs89"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-4.png"/>
+      <id val="40ih6831xvbab4"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-40.png"/>
+      <id val="29ife8321mecel"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-5.png"/>
+      <id val="40igkoujeoj5sa"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-50.png"/>
+      <id val="3d6skgb05v0wp"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-6.png"/>
+      <id val="40ifz4ujeosfhk"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-60.png"/>
+      <id val="3d6q68321murwq"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-7.png"/>
+      <id val="4703i8320ar87q"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-70.png"/>
+      <id val="3d6ud4321n8enm"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-9.png"/>
+      <id val="4709hsb0157to"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ScreenShot-90.png"/>
+      <id val="3ibxfcb05y3x6"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="concrete_wall.png"/>
+      <id val="3w5e111odi9skhre33p3t"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="crbst_0.wtml.html"/>
+      <id val="#cdc8#0#31yo1c8g2ymu4uw"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="crbst_1.html"/>
+      <id val="#cdc8#0#29rld4ulor9zzz"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="crbst_1.wtml.html"/>
+      <id val="#cdc8#0#31ysm88g2ymu4uy"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="crbst_2.html"/>
+      <id val="#cdc8#0#29rhrkulora00d"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="crbst_2.wtml.html"/>
+      <id val="#cdc8#0#2bajz431zibr9r"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="crbst_3.html"/>
+      <id val="#cdc8#0#29rhfsulora00n"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="crbst_4.html"/>
+      <id val="#cdc8#0#29rh40ulora023"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="crbst_5.html"/>
+      <id val="#cdc8#0#29rgs8ulora03j"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="crbst_6.html"/>
+      <id val="#cdc8#0#29rgggulora03n"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="crbst_7.html"/>
+      <id val="#cdc8#0#29rg4oulora049"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="digital-marketing-1433427_640_20-_20Copie.jpg"/>
+      <id val="28i460b06z2bv"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="excanvas.js"/>
+      <id val="1f2a"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="geometric-1732847_960_720.jpg"/>
+      <id val="1lc34ujv26tmd"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="halo3.png"/>
+      <id val="1i55706e7lmiv"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="halo30.png"/>
+      <id val="2ao7e88g3w0ra6k"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="index.html"/>
+      <id val="#cdc8#0#29rob4ulorhstp"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="jquery.js"/>
+      <id val="86c"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="jquery.mousewheel.js"/>
+      <id val="use"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="liz1.png"/>
+      <id val="6yqv0s4xlvzdfc0"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="liz10.png"/>
+      <id val="2ao674uesel5xt"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="log.png"/>
+      <id val="1fwdxo4xlvzdayi"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="omb.png"/>
+      <id val="40i4lkujejpvlg"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="ordinateur_20logo.png"/>
+      <id val="2b8x8wb0eua5l"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-alphatradezone-5833772.jpg"/>
+      <id val="2aqjmg8g3w1uirs"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-andras-stefuca-17647178.jpg"/>
+      <id val="2aqh88uesf6lda"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-burak-the-weekender-186461.jpg"/>
+      <id val="28i5yob06zas6"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-julia-volk-5206979.jpg"/>
+      <id val="28h39s8g3w5vywq"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-julia-volk-52069790.jpg"/>
+      <id val="323eggazs6ohg"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-julia-volk-52069791.jpg"/>
+      <id val="3zcqwoujeilcxi"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-nataliya-vaitkevich-7173047.jpg"/>
+      <id val="40ies0ujekoeon"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-rostislav-uzunov-5011647.jpg"/>
+      <id val="2afe1c323q1x02"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-rostislav-uzunov-50116470.jpg"/>
+      <id val="2afe1c323q1x02"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-rostislav-uzunov-50116471.jpg"/>
+      <id val="1ligz4b027hiu"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-rostislav-uzunov-50116472.jpg"/>
+      <id val="28g9w0b06iaie"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pexels-rostislav-uzunov-50116473.jpg"/>
+      <id val="1lc34ujeklukt"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="pict2.jpg"/>
+      <id val="2e374g8g2ymu4w5"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="sitemap.xml"/>
+      <id val="297dj8ulor9zxq"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_admin.php"/>
+      <id val="jj7"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_closecross.png"/>
+      <id val="1521"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_common_messages_fr.js"/>
+      <id val="33u5sc8g2ymu4udfr"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_dyn_blog.php"/>
+      <id val="n79"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_files/4_5947098570317368246.pdf"/>
+      <id val="1kmsnkujdqo5ke"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_files/le_20march_C3_A9_20boursier_20et_20l_27investissement.pdf"/>
+      <id val="1k7u14uje35vqg"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_global_style.css"/>
+      <id val="2b98foulow6x3r"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_import1.jpg"/>
+      <id val="2fiw7suje6xgj0"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_import2.jpg"/>
+      <id val="323j8wuje7gtf2"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_import3.jpg"/>
+      <id val="36282w31xtkxmc"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_import4.jpg"/>
+      <id val="361yi0uje86kjd"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_import5.jpg"/>
+      <id val="3v0f80uje8gwqd"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_import6.jpg"/>
+      <id val="3amirk31xtp729"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_loading.png"/>
+      <id val="1kj2"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_site_global_settings.js"/>
+      <id val="1sfu9wulow6x3r"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="wa_transparent.gif"/>
+      <id val="k49"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="webacappella.css"/>
+      <id val="10nl"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="webacappella_core.js"/>
+      <id val="1ups"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="webacappella_ie.css"/>
+      <id val="1tjn"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="webacappella_menu.js"/>
+      <id val="1lh9"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="webacappella_patch_ie8.js"/>
+      <id val="tc5"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="webacappella_tools.js"/>
+      <id val="blf"/>
+    </OBJECT>
+  </synchro_elements>
+</synchro_status>
